@@ -154,7 +154,7 @@ paginate: 10
 paginate_path: "/page:num/"
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/jimohola.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 

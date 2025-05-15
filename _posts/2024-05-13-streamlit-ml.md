@@ -12,4 +12,4 @@ This is a simple ML project built using Streamlit.
 
 📂 [GitHub Repo](https://github.com/jimohola/Streamlit_ML)
 
-![Screenshot](/assets/img/Streamlit.png)
+![Screenshot]({{ site.baseurl }}/assets/img/Streamlit.png)
