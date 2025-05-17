@@ -19,7 +19,7 @@ timezone: Europe/London
 
 title: Jimoh's Portfolio # the main title
 
-tagline: Data Science | Machine Learning # it will display as the subtitle
+tagline: Data Scientist # it will display as the subtitle
 
 description:  >-  # used by seo meta and the atom feed
   A personal portfolio to showcase my ML & data projects.
@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/favicons/avatar.jpeg"
+# avatar: ""
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -154,7 +154,7 @@ paginate: 10
 paginate_path: "/page:num/"
 
 # The base URL of your site
-baseurl: "/jimohola.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
