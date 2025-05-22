@@ -15,4 +15,4 @@ A machine learning web application built with **Streamlit** that predicts flight
 - Hosted separately for live demo
 
 🔗 [View the project on GitHub](https://github.com/jimohola/Streamlit_ML)  
-🔗 [Launch the live app](https://streamlit-flightprice-predict.streamlit.app/)
+🌐 [Launch Live App](https://jimohola.streamlit.app/)
