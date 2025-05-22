@@ -16,7 +16,7 @@ timezone:
 
 title: Jimoh Fatai # the main title
 
-tagline: Data Scientist | Machine Learning | Data Analysis for Decision Making # it will display as the subtitle
+tagline:  Machine Learning | Data Analysis  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
    I'm a data scientist passionate about using machine learning to drive smart decisions.
