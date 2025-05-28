@@ -14,7 +14,7 @@ This Power BI project analyzes sales and budget data from the Adventure Works da
 <iframe 
   width="100%" 
   height="600px" 
-  src="<iframe title="Sales and Budget Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjczNzljZWQtMzI4ZC00ZDM0LTlmZTctNmZlZjM2MjI5MTU1IiwidCI6ImMxMWM4MmFjLTRiMjQtNGJiNy05MjRhLTMwNTI4MWE4MmUyOSJ9" frameborder="0" allowFullScreen="true"></iframe>" 
+  src="https://app.powerbi.com/view?r=eyJrIjoiMjczNzljZWQtMzI4ZC00ZDM0LTlmZTctNmZlZjM2MjI5MTU1IiwidCI6ImMxMWM4MmFjLTRiMjQtNGJiNy05MjRhLTMwNTI4MWE4MmUyOSJ9" 
   frameborder="0" 
   allowFullScreen="true">
 </iframe>
